@@ -49,6 +49,21 @@ O objetivo do projeto é criar um sistema que gerencie o inventário de produtos
 
 # **Banco De Dados**
 
+## Descrição do Cenário
+
+O sistema de Gestão de Estoque e Compras visa controlar o estoque de produtos em uma loja. Ele permite que funcionários gerenciem o estoque (adicionem, atualizem e removam produtos) e que clientes comprem os produtos disponíveis. Para o acesso ao sistema, usuários devem realizar o login e cadastro de acordo com seu tipo (funcionário ou cliente).
+
+## Regras de Negócio
+
+Funcionários
+    Podem acessar a área de gestão de estoque para adicionar, atualizar ou remover produtos.
+Clientes
+    Podem consultar o estoque e realizar compras, desde que a quantidade solicitada seja suficiente.
+Estoque
+    Ao adicionar produtos, o sistema verifica a quantidade disponível e atualiza o estoque. Caso a quantidade seja insuficiente, o sistema impede a venda.
+Cadastro e Login
+    Os usuários devem se cadastrar com um nome de usuário e senha. O sistema verifica se as credenciais estão corretas ao fazer login.
+
 
 ## Contato
 
