@@ -53,16 +53,42 @@ O objetivo do projeto é criar um sistema que gerencie o inventário de produtos
 
 O sistema de Gestão de Estoque e Compras visa controlar o estoque de produtos em uma loja. Ele permite que funcionários gerenciem o estoque (adicionem, atualizem e removam produtos) e que clientes comprem os produtos disponíveis. Para o acesso ao sistema, usuários devem realizar o login e cadastro de acordo com seu tipo (funcionário ou cliente).
 
-## Regras de Negócio
+# Regras de Negócio
 
-Funcionários
+## Funcionário <br>
     Podem acessar a área de gestão de estoque para adicionar, atualizar ou remover produtos.
-Clientes
+## Clientes
     Podem consultar o estoque e realizar compras, desde que a quantidade solicitada seja suficiente.
-Estoque
+## Estoque
     Ao adicionar produtos, o sistema verifica a quantidade disponível e atualiza o estoque. Caso a quantidade seja insuficiente, o sistema impede a venda.
-Cadastro e Login
+## Cadastro e Login
     Os usuários devem se cadastrar com um nome de usuário e senha. O sistema verifica se as credenciais estão corretas ao fazer login.
+
+# Matriz SWOT
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/c04abfd2-6e10-4c1d-8e3c-7b6de6ef44c2"  width="500px">
+
+</div>
+
+# Modelos De Dados
+
+## Modelo Conceitual
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/96d74576-531f-46f4-b13b-ca4562c29925"  width="500px">
+
+</div>
+
+## Modelo Fisico 
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/c21bf418-9e0b-443e-8698-9d3b92beb34f"  width="500px">
+
+</div>
+
 
 
 ## Contato
