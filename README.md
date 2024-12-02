@@ -9,6 +9,11 @@ O objetivo do projeto é criar um sistema que gerencie o inventário de produtos
 
 # **Modelagem De Sistema**
 
+<div aling-"center">
+
+<img src="https://github.com/user-attachments/assets/9be0346c-6d16-4000-8253-2b9c1fa5ce69"  width="300px">
+
+</div>
 
 
 ## Contato
