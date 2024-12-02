@@ -17,7 +17,7 @@ O objetivo do projeto é criar um sistema que gerencie o inventário de produtos
 
 <div>
 
-<img src="https://github.com/user-attachments/assets/db1391f5-52a2-451c-a513-ab936858b76e"  width="300px" margin-left="300px">
+<img src="https://github.com/user-attachments/assets/db1391f5-52a2-451c-a513-ab936858b76e"  width="300px">
 
 </div>
 
